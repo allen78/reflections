@@ -29,3 +29,5 @@ because we know that if we break something,
 we can always get back to the commit that works fine.
 
 7. Now that you have your workspace set up, what do you want to try using Git for?
+
+start a big project!!

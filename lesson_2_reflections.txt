@@ -2,3 +2,9 @@
 
 we transform a directory into repository.
 so we can record the history of it.
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area contains only files that you want,
+instead of all files in the directory.
+so you don't have to commit all files in the directory everytime.
