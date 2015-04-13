@@ -1,0 +1,4 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+we transform a directory into repository.
+so we can record the history of it.
