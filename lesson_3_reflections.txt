@@ -2,3 +2,27 @@
 
 When I am using more than one computer for a project,
 ore when there are more than one person working on this project
+
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+No idea.
+
+3.What is the benefit of having a copy of the last known state of the remote stored locally?
+
+extra copy
+
+4.How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+to collaborate without using Git and GitHub.
+If we are doing a small project,
+it might be easier since we can skip many process.
+However if we are working on a big project.
+it might be difficult to work without Git.
+
+5.When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I would prefer making changes in a separate branch when
+I am developing a new feature which might takes a long time.
+It's pretty straight forward to make changes directly in master
+branch, but when the features and collaborator grows larger.
+Things would go very complicate without using extra branches.

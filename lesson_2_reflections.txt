@@ -8,3 +8,23 @@ so we can record the history of it.
 staging area contains only files that you want,
 instead of all files in the directory.
 so you don't have to commit all files in the directory everytime.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+we can add only the files we have finished changing in to the staging area, instead of all the files in directory
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when you want to add some new features or make some experiment.
+
+5. How do the diagrams help you visualize the branch structure?
+helps a lot!
+
+6.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+we make a new commit which combines all the changes in two branches.
+
+7.What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merging is convenient, but may not work the way we want.
+manually merging might work the way we prefer, however might cost more time. 
